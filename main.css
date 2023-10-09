@@ -149,7 +149,6 @@ body {
   position: absolute;
   left: 50%;
   width: 100%;
-
   transform: translate(-50%, 20px);
   animation: animateBanner 1s ease-in-out 1s infinite alternate;
   z-index: 5;
@@ -345,9 +344,8 @@ body {
 
   .bannerParty {
     position: absolute;
-    top: 100px;
     width: 100vh;
-    height: 100vh;
+    height: 130%;
     max-width: 100vh;
     left: 50%;
     transform: translate(-50%, 0);
